@@ -12,8 +12,10 @@
     "axe/text-alternatives": [
       "default",
       {
-        "frame-title": "off"
+        "frame-title": "off",
+        "image-alt": "off"
       }
-    ]
+    ],
+    "disown-opener": "off"
   }
 }
