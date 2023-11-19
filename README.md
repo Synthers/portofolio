@@ -1,2 +1,2 @@
-# github.io
-yes
+#My Portofolio Website
+not really tbh, just for a project in school yeet...
